@@ -66,8 +66,7 @@ Savings Account = SUM('Clients - Banking'[Saving Accounts] )
 
 Foreign Currency Amount :
 Foreign Currency Account means an account held in a currency that is not the currency of India or Bhutan or Nepal.
-Foreign Currency Account = SUM('Clients - Banking'[Foreign Currency Account] ) 
+Foreign Currency Account = SUM('Clients - Banking'[Foreign Currency Account]) 
 
 6. Screenshots / Demos
-
-
+[Dashboard Preview]-(https://github.com/the-sweta-upadhyay/Banking_Domain_Data_Analysis_Project/blob/main/BANKING%20DASHBOARD%20(2).png)
